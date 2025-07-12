@@ -17,19 +17,14 @@ This assistant listens to your voice, responds with quirky and useful replies, a
 
 ---
 
-## 📸 Preview
-
-![screenshot](https://via.placeholder.com/800x400?text=Chatbot+UI+Screenshot)
-
-2. Install dependencies
+## Install dependencies
 
 pip install -r requirements.txt
 
 Also make sure you install FFmpeg and add it to PATH:
 
 🔗 https://www.gyan.dev/ffmpeg/builds/
-
-3. Run the app
+## Run the app
 
 streamlit run app.py
 
@@ -45,13 +40,8 @@ SpeechRecognition
 
 PyDub + FFmpeg
 
-🙋‍♀️ About Me
-Janani R – AI Enthusiast
-🔗 LinkedIn
-🔗 GitHub
-
-⭐ Give a Star!
-If you like this project, feel free to ⭐ the repo. It motivates me to build more fun AI tools!
+## ⭐ Give a Star!
+## If you like this project, feel free to ⭐ the repo. It motivates me to build more fun AI tools!
 
 
 ---
